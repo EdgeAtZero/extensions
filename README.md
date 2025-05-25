@@ -7,5 +7,5 @@
 # 使用
 
 ```
-https://raw.githubusercontent.com/EdgeAtZero/extensions/master/main/index.min.json
+https://raw.githubusercontent.com/EdgeAtZero/extensions/master/index.min.json
 ```
